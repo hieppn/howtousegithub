@@ -2,4 +2,8 @@
 
 ## abc
 
+```
+git init
+```
+
 ## Lien ket
