@@ -4,7 +4,7 @@
 
 ## Mo cmd va cd den thu muc du an
 
-## Git init
+## git init
 ```
 git init : bien thu muc thanh 1 repository
 ```
@@ -16,4 +16,14 @@ kiem tra co loi khong
 ## Lien ket thu muc voi git
 ```
 git remote add origin(ten tu dat) <link cua git muon lien ket>
+```
+
+## git remote -v 
+### kiem tra lai link lien ket dung chua
+
+## Them nhung gi lam duoc vao git
+```
+git add --all : them cac chinh sua
+git commit -m " noi dung commit"
+git push origin master: dua nhung thay doi o thu muc lien ket voi git len nhanh master
 ```
